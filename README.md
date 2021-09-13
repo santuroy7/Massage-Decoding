@@ -13,5 +13,5 @@
 - Convert the binary to Decimal...
 - Decimal to Char...
 - At last print the **Massage**. 
-
+## SS of output:
 <img src="https://github.com/santuroy7/Massage-Decoding/blob/main/ss1.jpg">
